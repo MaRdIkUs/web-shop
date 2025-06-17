@@ -1,0 +1,874 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MaRdIkUs\\Diplom2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\s3\\gcsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\s3\\gcsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\interfaces\\s3\\is3images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\interfaces\\s3\\is3images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\recomender\\recomender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\recomender\\recomender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\dbo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\dbo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\interfaces\\irecomender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\interfaces\\irecomender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\dbo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\dbo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\dbo\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\dbo\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\dbo\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\dbo\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\models\\usertag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\models\\usertag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\migration-dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\migration-dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\dbo\\nicenessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\dbo\\nicenessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\dbo\\filterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\dbo\\filterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\interfaces\\iniceness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\interfaces\\iniceness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\recomender\\localgeoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\recomender\\localgeoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\interfaces\\ilocalgeoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\interfaces\\ilocalgeoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\interfaces\\ifilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\interfaces\\ifilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\dbo\\qdrantsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\dbo\\qdrantsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\dbo\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\dbo\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\models\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\models\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\models\\filtertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\models\\filtertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\nginx.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\mardikus\\diplom2\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\nginx.main.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\nginx.main.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\models\\specs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\models\\specs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\mardikus\\diplom2\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\interfaces\\icart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\interfaces\\icart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\diplom2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\diplom2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\data\\models\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\data\\models\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\diplom2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\diplom2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\mardikus\\diplom2\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\mardikus\\diplom2\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|c:\\users\\mardikus\\diplom2\\diplom2\\diplom2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{82A45E03-63EA-4441-BE91-409A35621481}|Diplom2\\Diplom2.csproj|solutionrelative:diplom2\\diplom2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Diplom2\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:50:01.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Diplom2\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwD4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:55:50.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\DBO\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\CartRepository.cs",
+              "RelativeToolTip": "Diplom2\\Data\\DBO\\CartRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:07:47.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserTag.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\UserTag.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Models\\UserTag.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\UserTag.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Models\\UserTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:25:13.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NicenessRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\NicenessRepository.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\DBO\\NicenessRepository.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\NicenessRepository.cs",
+              "RelativeToolTip": "Diplom2\\Data\\DBO\\NicenessRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA5wCgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:08:26.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Diplom2\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:16:14.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Diplom2\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:55:52.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\DBO\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\ProductRepository.cs",
+              "RelativeToolTip": "Diplom2\\Data\\DBO\\ProductRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwF4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:19:24.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Interfaces\\IUser.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Interfaces\\IUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:52:32.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRecomender.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\IRecomender.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Interfaces\\IRecomender.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\IRecomender.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Interfaces\\IRecomender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:41:10.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Diplom2\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:28:36.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Diplom2\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:58:51.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\DBO\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\UserRepository.cs",
+              "RelativeToolTip": "Diplom2\\Data\\DBO\\UserRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:56:33.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GcsService.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\S3\\GcsService.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\S3\\GcsService.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\S3\\GcsService.cs",
+              "RelativeToolTip": "Diplom2\\Data\\S3\\GcsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:49:51.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IS3Images.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\S3\\IS3Images.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Interfaces\\S3\\IS3Images.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\S3\\IS3Images.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Interfaces\\S3\\IS3Images.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:47:45.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Recomender.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Recomender\\Recomender.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Recomender\\Recomender.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Recomender\\Recomender.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Recomender\\Recomender.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T11:33:31.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\DBO\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\CategoryRepository.cs",
+              "RelativeToolTip": "Diplom2\\Data\\DBO\\CategoryRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:57:28.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICategory.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\ICategory.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Interfaces\\ICategory.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\ICategory.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Interfaces\\ICategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:06:28.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\User.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:01:40.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "migration-Dockerfile",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\migration-Dockerfile",
+              "RelativeDocumentMoniker": "Diplom2\\migration-Dockerfile",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\migration-Dockerfile",
+              "RelativeToolTip": "Diplom2\\migration-Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-04T17:40:52.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Tag.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Models\\Tag.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:39:07.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Program.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Program.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Program.cs",
+              "RelativeToolTip": "Diplom2\\Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:56:53.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "INiceness.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\INiceness.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Interfaces\\INiceness.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\INiceness.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Interfaces\\INiceness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:33:32.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FilterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\FilterRepository.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\DBO\\FilterRepository.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\FilterRepository.cs",
+              "RelativeToolTip": "Diplom2\\Data\\DBO\\FilterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:23:39.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ILocalGeoService.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\ILocalGeoService.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Interfaces\\ILocalGeoService.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\ILocalGeoService.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Interfaces\\ILocalGeoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:53:15.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Dockerfile",
+              "RelativeDocumentMoniker": "Diplom2\\Dockerfile",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Dockerfile",
+              "RelativeToolTip": "Diplom2\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-04T14:44:32.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LocalGeoService.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Recomender\\LocalGeoService.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Recomender\\LocalGeoService.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Recomender\\LocalGeoService.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Recomender\\LocalGeoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:50:33.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFilter.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\IFilter.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Interfaces\\IFilter.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\IFilter.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Interfaces\\IFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:05:37.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QdrantSettings.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\QdrantSettings.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\DBO\\QdrantSettings.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\QdrantSettings.cs",
+              "RelativeToolTip": "Diplom2\\Data\\DBO\\QdrantSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:22:00.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\appsettings.json",
+              "RelativeDocumentMoniker": "Diplom2\\appsettings.json",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\appsettings.json",
+              "RelativeToolTip": "Diplom2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T21:37:59.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "nginx.conf",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\nginx.conf",
+              "RelativeDocumentMoniker": "Diplom2\\nginx.conf",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\nginx.conf",
+              "RelativeToolTip": "Diplom2\\nginx.conf",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-06T20:45:35.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FilterType.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\FilterType.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Models\\FilterType.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\FilterType.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Models\\FilterType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:22:33.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\DBO\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\DBO\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Diplom2\\Data\\DBO\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:22:48.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Category.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:22:36.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Filter.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Models\\Filter.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Filter.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Models\\Filter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:22:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-04T14:44:35.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "nginx.main.conf",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\nginx.main.conf",
+              "RelativeDocumentMoniker": "Diplom2\\nginx.main.conf",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\nginx.main.conf",
+              "RelativeToolTip": "Diplom2\\nginx.main.conf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-07T16:38:11.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Specs.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Specs.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Models\\Specs.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Specs.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Models\\Specs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:30:11.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-14T21:17:25.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Purchase.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Models\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:41:42.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Comment.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:55:02.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ICart.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\ICart.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Interfaces\\ICart.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Interfaces\\ICart.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Interfaces\\ICart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:14:12.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\History.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Models\\History.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\History.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Models\\History.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:54:58.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAhwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-14T13:44:55.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Diplom2.csproj",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Diplom2.csproj",
+              "RelativeDocumentMoniker": "Diplom2\\Diplom2.csproj",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Diplom2.csproj",
+              "RelativeToolTip": "Diplom2\\Diplom2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T12:53:05.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Diplom2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Diplom2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T22:34:24.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-13T21:54:11.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Bills.cs",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Bills.cs",
+              "RelativeDocumentMoniker": "Diplom2\\Data\\Models\\Bills.cs",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Data\\Models\\Bills.cs",
+              "RelativeToolTip": "Diplom2\\Data\\Models\\Bills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:22:39.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Diplom2.http",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Diplom2.http",
+              "RelativeDocumentMoniker": "Diplom2\\Diplom2.http",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Diplom2.http",
+              "RelativeToolTip": "Diplom2\\Diplom2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-04T17:41:10.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-04T17:41:56.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T20:46:58.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Diplom2",
+              "DocumentMoniker": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Diplom2.csproj",
+              "RelativeDocumentMoniker": "Diplom2\\Diplom2.csproj",
+              "ToolTip": "C:\\Users\\MaRdIkUs\\Diplom2\\Diplom2\\Diplom2.csproj",
+              "RelativeToolTip": "Diplom2\\Diplom2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T20:21:57.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

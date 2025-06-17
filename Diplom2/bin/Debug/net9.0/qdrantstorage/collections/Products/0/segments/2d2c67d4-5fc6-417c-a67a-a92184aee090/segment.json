@@ -1,0 +1,1 @@
+{"version":97,"config":{"vector_data":{},"sparse_vector_data":{"tags":{"index":{"full_scan_threshold":null,"index_type":"MutableRam"},"storage_type":"mmap"}},"payload_storage_type":{"type":"in_memory"}}}

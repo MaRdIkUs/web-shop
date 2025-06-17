@@ -1,0 +1,13 @@
+FROM mcr.microsoft.com/dotnet/sdk:9.0
+
+WORKDIR /app
+COPY ./Diplom2 .
+
+RUN dotnet tool install --global dotnet-ef
+ENV PATH="$PATH:/root/.dotnet/tools"
+
+#RUN dotnet ef migrations add InitialCreate
+
+ENTRYPOINT dotnet ef migrations add InitialCreate && dotnet ef database update
+
+#ENTRYPOINT ["dotnet", "ef", "database", "update"]
